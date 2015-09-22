@@ -13,7 +13,6 @@
 
 @interface ViewController () 
 
-@property (strong, nonatomic) NSOperation* currentOperation;
 @property (strong, nonatomic) NSMutableArray* citiesArray;
 @property (strong, nonatomic) NSMutableArray* searchArray;
 
